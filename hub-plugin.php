@@ -1,11 +1,11 @@
 <?php
 /**
  * Plugin Name: Hub Plugin (Central)
- * Plugin URI:  https://example.com
+ * Plugin URI:  https://georgeiskef.com
  * Description: The central hub plugin that manages global "Slot" data and handles synchronization with client sites.
  * Version:     1.0.0
- * Author:      Your Name
- * Author URI:  https://example.com
+ * Author:      George Iskef
+ * Author URI:  https://georgeiskef.com
  * Text Domain: hub-plugin
  */
 
