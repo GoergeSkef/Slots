@@ -1,0 +1,51 @@
+.hub-sync-container {
+    background: #fff;
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+}
+
+.hub-form-section {
+    margin-bottom: 20px;
+    padding: 15px;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+}
+
+.post-select {
+    width: 100%;
+    min-height: 200px;
+}
+
+.category-checkboxes {
+    column-count: 3;
+}
+
+.progress-bar {
+    background: #f1f1f1;
+    height: 20px;
+    border-radius: 10px;
+    overflow: hidden;
+    margin: 10px 0;
+}
+
+.progress {
+    background: #0073aa;
+    height: 100%;
+    width: 0%;
+    transition: width 0.3s ease;
+}
+
+.sync-log {
+    background: #f8f9f9;
+    padding: 10px;
+    border: 1px solid #ddd;
+    max-height: 300px;
+    overflow-y: auto;
+}
+
+.sync-log p {
+    margin: 5px 0;
+    padding: 5px;
+    border-bottom: 1px solid #eee;
+} 
